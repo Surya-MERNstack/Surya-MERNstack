@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Mern Stack **
 
-- 💬 Ask me about **react , JavaScript ,Python**
+- 💬 Ask me about **react , JavaScript ,Python ,Nodejs ,Expressjs ,MongooseDB**
 
 - 📫 How to reach me **charusurya17@gmail.com**
 
